@@ -1,6 +1,6 @@
 namsrai created text file
 
 
-change 1 tugu
+change 1 tugu 11
 
-change 2 namsrai --- change tugu 3 === namsrai ++++
+change 2 namsrai --- change tugu 3 === namsrai ++++ asdasd a
