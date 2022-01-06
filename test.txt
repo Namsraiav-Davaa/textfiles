@@ -3,4 +3,4 @@ namsrai created text file
 
 change 1 tugu
 
-change 2 namsrai ---
+change 2 namsrai --- change tugu 3
